@@ -1,6 +1,6 @@
 {
   "name": "react-equalize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "equalize the height of your elements in your page",
   "main": "dist/react-equalize.js",
   "scripts": {
