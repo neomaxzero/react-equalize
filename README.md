@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/neomaxzero/react-equalize/blob/master/assets/react-equalize.png?raw=true" alt="logo react equalize"  width="200px"/>
+  <img src="https://github.com/neomaxzero/react-equalize/blob/master/assets/react-equalize.png?raw=true" alt="logo react equalize"  width="250px"/>
 </p>
 
 [![CircleCI](https://circleci.com/gh/neomaxzero/react-equalize.svg?style=shield)](https://circleci.com/gh/neomaxzero/react-equalize)
