@@ -16,13 +16,10 @@ const Equalize = ({ children }) => {
 
             return rows;
         });
-        console.log(element);
     });
 
-    console.log(el.current);
     const heightRow = rows[el.current && el.current.getBoundingClientRect().y];
 
-    console.log(heightRow);
     return (
         <div ref={el} style={{ height: heightRow || 'auto' }}>
             {children}
