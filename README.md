@@ -59,3 +59,10 @@ export default Card;
 
 ```
 
+## API 
+
+### <EqualizerContainer />
+
+| Prop | Type | Description |
+| --- | :---: | --- |
+| `elements` | `Array` | List of elements that should re-trigger the calculation.
