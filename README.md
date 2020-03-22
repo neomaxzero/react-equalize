@@ -20,19 +20,18 @@ import { EqualizerContainer } from "react-equalize";
 import samples from './samples';
 import Card from './Card';
 
-export default function App() {
-  return (
-    <>
-      <h2>List</h2>
-			<EqualizerContainer>
-				{/* elements to equalize */}
-				{samples.map(sample => (
-					<Card title={sample.title} img={sample.img} />
-				))}
-			</EqualizerContainer>
-    </>
-  );
-}
+const List = () => (
+  <div>
+    <h2>List</h2>
+    <EqualizerContainer>
+      {samples.map(sample => (
+	      <Card title={sample.title} img={sample.img} />
+      ))}
+    </EqualizerContainer>
+	</div>
+);
+
+export default List;
 
 ```
 
