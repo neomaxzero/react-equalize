@@ -59,6 +59,8 @@ export default Card;
 
 ```
 
+[![Edit react-equalize-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/xenodochial-stallman-zictu?fontsize=14&hidenavigation=1&theme=dark)
+
 ## API 
 
 ### <EqualizerContainer />
