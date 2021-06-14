@@ -4,7 +4,10 @@
 
 [![CircleCI](https://circleci.com/gh/neomaxzero/react-equalize.svg?style=shield)](https://circleci.com/gh/neomaxzero/react-equalize)
 
-Equalize the height of your elements in your page. [:question:](https://raw.githubusercontent.com/neomaxzero/react-equalize/master/zictu.csb.app_.png)
+Equalize the height of your elements in your page. 
+
+
+- Check what I mean [-->here<--](https://raw.githubusercontent.com/neomaxzero/react-equalize/master/zictu.csb.app_.png)
 
 ## Installation
 
